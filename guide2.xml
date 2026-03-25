@@ -1,0 +1,1923 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="es">History</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Discovery Home Y Health">
+    <display-name lang="es">Discovery Home Y Health</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ID Investigation Discovery">
+    <display-name lang="es">ID Investigation Discovery</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Liga 1 Peru(LIG1)(603)">
+    <display-name lang="es">L1</display-name>
+    <url>http://www.directv.com.pe</url>
+  </channel>
+  <channel id="Liga 1 Max(LI1M)(604)">
+    <display-name lang="es">L1 MAX</display-name>
+    <url>http://www.directv.com.pe</url>
+  </channel>
+  <channel id="GOLPERU HD">
+    <display-name lang="es">GOLPERU</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="es">HBO Xtreme</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20260324011600 -0600" stop="20260324020400 -0600" channel="Discovery Channel">
+    <title lang="es">Alaska paranormal</title>
+  </programme>
+  <programme start="20260324020400 -0600" stop="20260324025200 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20260324025200 -0600" stop="20260324034000 -0600" channel="Discovery Channel">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20260324034000 -0600" stop="20260324042600 -0600" channel="Discovery Channel">
+    <title lang="es">Encierro paranormal</title>
+  </programme>
+  <programme start="20260324042600 -0600" stop="20260324051400 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20260324051400 -0600" stop="20260324060000 -0600" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20260324060000 -0600" stop="20260324064800 -0600" channel="Discovery Channel">
+    <title lang="es">Alaska paranormal</title>
+  </programme>
+  <programme start="20260324064800 -0600" stop="20260324073600 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20260324073600 -0600" stop="20260324082400 -0600" channel="Discovery Channel">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20260324082400 -0600" stop="20260324091200 -0600" channel="Discovery Channel">
+    <title lang="es">Encierro paranormal</title>
+  </programme>
+  <programme start="20260324091200 -0600" stop="20260324100000 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20260324100000 -0600" stop="20260324105000 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260324105000 -0600" stop="20260324113800 -0600" channel="Discovery Channel">
+    <title lang="es">Tentados por la fortuna</title>
+  </programme>
+  <programme start="20260324113800 -0600" stop="20260324122600 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260324122600 -0600" stop="20260324131400 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260324131400 -0600" stop="20260324141200 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2 México</title>
+  </programme>
+  <programme start="20260324141200 -0600" stop="20260324150800 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2 México</title>
+  </programme>
+  <programme start="20260324150800 -0600" stop="20260324160000 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2 México</title>
+  </programme>
+  <programme start="20260324160000 -0600" stop="20260324165900 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo Latinoamérica</title>
+  </programme>
+  <programme start="20260324165900 -0600" stop="20260324175500 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo Latinoamérica</title>
+  </programme>
+  <programme start="20260324175500 -0600" stop="20260324184800 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo Latinoamérica</title>
+  </programme>
+  <programme start="20260324184800 -0600" stop="20260324202400 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo Apocalípsis</title>
+  </programme>
+  <programme start="20260324202400 -0600" stop="20260324211200 -0600" channel="Discovery Channel">
+    <title lang="es">Historias de fantasmas</title>
+  </programme>
+  <programme start="20260324211200 -0600" stop="20260324220000 -0600" channel="Discovery Channel">
+    <title lang="es">Historias de fantasmas</title>
+  </programme>
+  <programme start="20260324220000 -0600" stop="20260324224800 -0600" channel="Discovery Channel">
+    <title lang="es">Historias de fantasmas</title>
+  </programme>
+  <programme start="20260324224800 -0600" stop="20260324233600 -0600" channel="Discovery Channel">
+    <title lang="es">Historias de fantasmas casas embrujadas</title>
+  </programme>
+  <programme start="20260324233600 -0600" stop="20260325002400 -0600" channel="Discovery Channel">
+    <title lang="es">Encuentros con extraterrestres Realidad o ficción</title>
+  </programme>
+  <programme start="20260325002400 -0600" stop="20260325011200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260325011200 -0600" stop="20260325020000 -0600" channel="Discovery Channel">
+    <title lang="es">Alaska paranormal</title>
+  </programme>
+  <programme start="20260325020000 -0600" stop="20260325024800 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20260325024800 -0600" stop="20260325033600 -0600" channel="Discovery Channel">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20260325033600 -0600" stop="20260325042400 -0600" channel="Discovery Channel">
+    <title lang="es">Encierro paranormal</title>
+  </programme>
+  <programme start="20260325042400 -0600" stop="20260325051200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20260325051200 -0600" stop="20260325060000 -0600" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20260325060000 -0600" stop="20260325064800 -0600" channel="Discovery Channel">
+    <title lang="es">Alaska paranormal</title>
+  </programme>
+  <programme start="20260325064800 -0600" stop="20260325073600 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20260325073600 -0600" stop="20260325082400 -0600" channel="Discovery Channel">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20260325082400 -0600" stop="20260325091200 -0600" channel="Discovery Channel">
+    <title lang="es">Encierro paranormal</title>
+  </programme>
+  <programme start="20260325091200 -0600" stop="20260325100000 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20260325100000 -0600" stop="20260325104800 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260325104800 -0600" stop="20260325113600 -0600" channel="Discovery Channel">
+    <title lang="es">Tentados por la fortuna</title>
+  </programme>
+  <programme start="20260325113600 -0600" stop="20260325122400 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260325122400 -0600" stop="20260325131200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260325131200 -0600" stop="20260325140000 -0600" channel="Discovery Channel">
+    <title lang="es">Sin fronteras con Ed Stafford</title>
+  </programme>
+  <programme start="20260325140000 -0600" stop="20260325144800 -0600" channel="Discovery Channel">
+    <title lang="es">Sin fronteras con Ed Stafford</title>
+  </programme>
+  <programme start="20260325144800 -0600" stop="20260325153600 -0600" channel="Discovery Channel">
+    <title lang="es">Sin fronteras con Ed Stafford</title>
+  </programme>
+  <programme start="20260325153600 -0600" stop="20260325162600 -0600" channel="Discovery Channel">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20260325162600 -0600" stop="20260325171800 -0600" channel="Discovery Channel">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20260325171800 -0600" stop="20260325181200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260325181200 -0600" stop="20260325184200 -0600" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20260325184200 -0600" stop="20260325193400 -0600" channel="Discovery Channel">
+    <title lang="es">El rescate perfecto</title>
+  </programme>
+  <programme start="20260325193400 -0600" stop="20260325202600 -0600" channel="Discovery Channel">
+    <title lang="es">El mercado de la inocencia</title>
+  </programme>
+  <programme start="20260325202600 -0600" stop="20260325211600 -0600" channel="Discovery Channel">
+    <title lang="es">Los millones de Escobar</title>
+  </programme>
+  <programme start="20260325211600 -0600" stop="20260325220400 -0600" channel="Discovery Channel">
+    <title lang="es">Los millones de Escobar</title>
+  </programme>
+  <programme start="20260325220400 -0600" stop="20260325224800 -0600" channel="Discovery Channel">
+    <title lang="es">Contrabando en la frontera</title>
+  </programme>
+  <programme start="20260325224800 -0600" stop="20260325233600 -0600" channel="Discovery Channel">
+    <title lang="es">Contrabando en la frontera</title>
+  </programme>
+  <programme start="20260325233600 -0600" stop="20260326002400 -0600" channel="Discovery Channel">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20260326002400 -0600" stop="20260326011200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260326011200 -0600" stop="20260326020000 -0600" channel="Discovery Channel">
+    <title lang="es">Alaska paranormal</title>
+  </programme>
+  <programme start="20260326020000 -0600" stop="20260326024800 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20260326024800 -0600" stop="20260326033600 -0600" channel="Discovery Channel">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20260326033600 -0600" stop="20260326042400 -0600" channel="Discovery Channel">
+    <title lang="es">Encierro paranormal</title>
+  </programme>
+  <programme start="20260326042400 -0600" stop="20260326051200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20260326051200 -0600" stop="20260326060000 -0600" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326064800 -0600" channel="Discovery Channel">
+    <title lang="es">Alaska paranormal</title>
+  </programme>
+  <programme start="20260326064800 -0600" stop="20260326073600 -0600" channel="Discovery Channel">
+    <title lang="es">Desafío X2</title>
+  </programme>
+  <programme start="20260326073600 -0600" stop="20260326082400 -0600" channel="Discovery Channel">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20260326082400 -0600" stop="20260326091200 -0600" channel="Discovery Channel">
+    <title lang="es">Encierro paranormal</title>
+  </programme>
+  <programme start="20260326091200 -0600" stop="20260326100000 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo solo</title>
+  </programme>
+  <programme start="20260326100000 -0600" stop="20260326104800 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260326104800 -0600" stop="20260326113600 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260326113600 -0600" stop="20260326122400 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260326122400 -0600" stop="20260326131200 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260326131200 -0600" stop="20260326144800 -0600" channel="Discovery Channel">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20260326144800 -0600" stop="20260326162400 -0600" channel="Discovery Channel">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20260326162400 -0600" stop="20260326180000 -0600" channel="Discovery Channel">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20260326180000 -0600" stop="20260326184800 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20260326184800 -0600" stop="20260326193600 -0600" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo España</title>
+  </programme>
+  <programme start="20260324001600 -0600" stop="20260324010900 -0600" channel="H2">
+    <title lang="es">Carlos El nuevo rey</title>
+  </programme>
+  <programme start="20260324010900 -0600" stop="20260324022600 -0600" channel="H2">
+    <title lang="es">Rudi Haymann testigo y protagonista</title>
+  </programme>
+  <programme start="20260324022600 -0600" stop="20260324031600 -0600" channel="H2">
+    <title lang="es">Carlos El nuevo rey</title>
+  </programme>
+  <programme start="20260324031600 -0600" stop="20260324034600 -0600" channel="H2">
+    <title lang="es">Guatemala auténtica</title>
+  </programme>
+  <programme start="20260324034600 -0600" stop="20260324042600 -0600" channel="H2">
+    <title lang="es">Guatemala auténtica</title>
+  </programme>
+  <programme start="20260324042600 -0600" stop="20260324051200 -0600" channel="H2">
+    <title lang="es">El efecto Nostradamus</title>
+  </programme>
+  <programme start="20260324051200 -0600" stop="20260324053900 -0600" channel="H2">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20260324053900 -0600" stop="20260324060000 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260324060000 -0600" stop="20260324065500 -0600" channel="H2">
+    <title lang="es">Cazadores de dictadores</title>
+  </programme>
+  <programme start="20260324065500 -0600" stop="20260324074700 -0600" channel="H2">
+    <title lang="es">Carlos El nuevo rey</title>
+  </programme>
+  <programme start="20260324074700 -0600" stop="20260324081700 -0600" channel="H2">
+    <title lang="es">Guatemala auténtica</title>
+  </programme>
+  <programme start="20260324081700 -0600" stop="20260324085700 -0600" channel="H2">
+    <title lang="es">Guatemala auténtica</title>
+  </programme>
+  <programme start="20260324085700 -0600" stop="20260324092500 -0600" channel="H2">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20260324092500 -0600" stop="20260324101200 -0600" channel="H2">
+    <title lang="es">El efecto Nostradamus</title>
+  </programme>
+  <programme start="20260324101200 -0600" stop="20260324110100 -0600" channel="H2">
+    <title lang="es">El efecto Nostradamus</title>
+  </programme>
+  <programme start="20260324110100 -0600" stop="20260324115300 -0600" channel="H2">
+    <title lang="es">Carlos El nuevo rey</title>
+  </programme>
+  <programme start="20260324115300 -0600" stop="20260324124600 -0600" channel="H2">
+    <title lang="es">Carlos El nuevo rey</title>
+  </programme>
+  <programme start="20260324124600 -0600" stop="20260324140300 -0600" channel="H2">
+    <title lang="es">Rudi Haymann testigo y protagonista</title>
+  </programme>
+  <programme start="20260324140300 -0600" stop="20260324145900 -0600" channel="H2">
+    <title lang="es">Cazadores de dictadores</title>
+  </programme>
+  <programme start="20260324145900 -0600" stop="20260324154700 -0600" channel="H2">
+    <title lang="es">El efecto Nostradamus</title>
+  </programme>
+  <programme start="20260324154700 -0600" stop="20260324163600 -0600" channel="H2">
+    <title lang="es">El efecto Nostradamus</title>
+  </programme>
+  <programme start="20260324163600 -0600" stop="20260324180500 -0600" channel="H2">
+    <title lang="es">La guerra de las Cola</title>
+  </programme>
+  <programme start="20260324180500 -0600" stop="20260324190400 -0600" channel="H2">
+    <title lang="es">Historias Malditas</title>
+  </programme>
+  <programme start="20260324190400 -0600" stop="20260324200000 -0600" channel="H2">
+    <title lang="es">Operación de Espionaje</title>
+  </programme>
+  <programme start="20260324200000 -0600" stop="20260324205400 -0600" channel="H2">
+    <title lang="es">Exploracion Inca</title>
+  </programme>
+  <programme start="20260324205400 -0600" stop="20260324214800 -0600" channel="H2">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20260324214800 -0600" stop="20260324224100 -0600" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20260324224100 -0600" stop="20260324233100 -0600" channel="H2">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20260324233100 -0600" stop="20260325002500 -0600" channel="H2">
+    <title lang="es">Exploracion Inca</title>
+  </programme>
+  <programme start="20260325002500 -0600" stop="20260325011700 -0600" channel="H2">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20260325011700 -0600" stop="20260325020700 -0600" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20260325020700 -0600" stop="20260325025800 -0600" channel="H2">
+    <title lang="es">Operación de Espionaje</title>
+  </programme>
+  <programme start="20260325025800 -0600" stop="20260325042400 -0600" channel="H2">
+    <title lang="es">La guerra de las Cola</title>
+  </programme>
+  <programme start="20260325042400 -0600" stop="20260325051800 -0600" channel="H2">
+    <title lang="es">Historias Malditas</title>
+  </programme>
+  <programme start="20260325051800 -0600" stop="20260325053900 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260325053900 -0600" stop="20260325060000 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260325060000 -0600" stop="20260325064600 -0600" channel="H2">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20260325064600 -0600" stop="20260325073700 -0600" channel="H2">
+    <title lang="es">Exploracion Inca</title>
+  </programme>
+  <programme start="20260325073700 -0600" stop="20260325090300 -0600" channel="H2">
+    <title lang="es">La guerra de las Cola</title>
+  </programme>
+  <programme start="20260325090300 -0600" stop="20260325093000 -0600" channel="H2">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20260325093000 -0600" stop="20260325095700 -0600" channel="H2">
+    <title lang="es">La Ilíada y la Odisea</title>
+  </programme>
+  <programme start="20260325095700 -0600" stop="20260325105100 -0600" channel="H2">
+    <title lang="es">Historias Malditas</title>
+  </programme>
+  <programme start="20260325105100 -0600" stop="20260325114400 -0600" channel="H2">
+    <title lang="es">Operación de Espionaje</title>
+  </programme>
+  <programme start="20260325114400 -0600" stop="20260325123600 -0600" channel="H2">
+    <title lang="es">Exploracion Inca</title>
+  </programme>
+  <programme start="20260325123600 -0600" stop="20260325132800 -0600" channel="H2">
+    <title lang="es">Exploración Azteca</title>
+  </programme>
+  <programme start="20260325132800 -0600" stop="20260325141900 -0600" channel="H2">
+    <title lang="es">Exploración Maya</title>
+  </programme>
+  <programme start="20260325141900 -0600" stop="20260325150700 -0600" channel="H2">
+    <title lang="es">Construyendo un Imperio</title>
+  </programme>
+  <programme start="20260325150700 -0600" stop="20260325163600 -0600" channel="H2">
+    <title lang="es">La guerra de las Cola</title>
+  </programme>
+  <programme start="20260325163600 -0600" stop="20260325171900 -0600" channel="H2">
+    <title lang="es">Inventos legendarios</title>
+  </programme>
+  <programme start="20260325171900 -0600" stop="20260325181500 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260325181500 -0600" stop="20260325191400 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260325191400 -0600" stop="20260325193700 -0600" channel="H2">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260325193700 -0600" stop="20260325200000 -0600" channel="H2">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260325200000 -0600" stop="20260325202800 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260325202800 -0600" stop="20260325205600 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260325205600 -0600" stop="20260325214300 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260325214300 -0600" stop="20260325223000 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260325223000 -0600" stop="20260325231800 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260325231800 -0600" stop="20260325234600 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260325234600 -0600" stop="20260326001400 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260326001400 -0600" stop="20260326005900 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326005900 -0600" stop="20260326014300 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326014300 -0600" stop="20260326022700 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326022700 -0600" stop="20260326024800 -0600" channel="H2">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260326024800 -0600" stop="20260326030900 -0600" channel="H2">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260326030900 -0600" stop="20260326035100 -0600" channel="H2">
+    <title lang="es">Inventos legendarios</title>
+  </programme>
+  <programme start="20260326035100 -0600" stop="20260326044500 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260326044500 -0600" stop="20260326053900 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260326053900 -0600" stop="20260326060000 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326064300 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326064300 -0600" stop="20260326070900 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260326070900 -0600" stop="20260326073600 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260326073600 -0600" stop="20260326081800 -0600" channel="H2">
+    <title lang="es">Inventos legendarios</title>
+  </programme>
+  <programme start="20260326081800 -0600" stop="20260326083900 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260326083900 -0600" stop="20260326090100 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260326090100 -0600" stop="20260326092300 -0600" channel="H2">
+    <title lang="es">Tu auto perfecto</title>
+  </programme>
+  <programme start="20260326092300 -0600" stop="20260326101800 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260326101800 -0600" stop="20260326111400 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260326111400 -0600" stop="20260326113600 -0600" channel="H2">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260326113600 -0600" stop="20260326115800 -0600" channel="H2">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260326115800 -0600" stop="20260326122500 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260326122500 -0600" stop="20260326125300 -0600" channel="H2">
+    <title lang="es">Tesoros olvidados</title>
+  </programme>
+  <programme start="20260326125300 -0600" stop="20260326133800 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326133800 -0600" stop="20260326142300 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326142300 -0600" stop="20260326150800 -0600" channel="H2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20260326150800 -0600" stop="20260326155100 -0600" channel="H2">
+    <title lang="es">Inventos legendarios</title>
+  </programme>
+  <programme start="20260326155100 -0600" stop="20260326164700 -0600" channel="H2">
+    <title lang="es">Faraones ascenso y caída</title>
+  </programme>
+  <programme start="20260326164700 -0600" stop="20260326174100 -0600" channel="H2">
+    <title lang="es">Armas espías desclasificadas</title>
+  </programme>
+  <programme start="20260326174100 -0600" stop="20260326183300 -0600" channel="H2">
+    <title lang="es">Armas espías desclasificadas</title>
+  </programme>
+  <programme start="20260326183300 -0600" stop="20260326200300 -0600" channel="H2">
+    <title lang="es">Reyes Del Crimen</title>
+  </programme>
+  <programme start="20260324002500 -0600" stop="20260324011000 -0600" channel="History">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+  </programme>
+  <programme start="20260324011000 -0600" stop="20260324015400 -0600" channel="History">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20260324015400 -0600" stop="20260324023700 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+  </programme>
+  <programme start="20260324023700 -0600" stop="20260324032100 -0600" channel="History">
+    <title lang="es">Inexplicable</title>
+  </programme>
+  <programme start="20260324032100 -0600" stop="20260324040800 -0600" channel="History">
+    <title lang="es">Mysteryquest</title>
+  </programme>
+  <programme start="20260324040800 -0600" stop="20260324045400 -0600" channel="History">
+    <title lang="es">Alienígenas ancestrales Latinoamérica</title>
+  </programme>
+  <programme start="20260324045400 -0600" stop="20260324053800 -0600" channel="History">
+    <title lang="es">Alienígenas ancestrales especial</title>
+  </programme>
+  <programme start="20260324053800 -0600" stop="20260324060000 -0600" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20260324060000 -0600" stop="20260324064800 -0600" channel="History">
+    <title lang="es">Lo Mejor de Cazadores de Tesoros</title>
+  </programme>
+  <programme start="20260324064800 -0600" stop="20260324073600 -0600" channel="History">
+    <title lang="es">Lo Mejor de Cazadores de Tesoros</title>
+  </programme>
+  <programme start="20260324073600 -0600" stop="20260324080000 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260324080000 -0600" stop="20260324090000 -0600" channel="History">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260324090000 -0600" stop="20260324100000 -0600" channel="History">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260324100000 -0600" stop="20260324105100 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia</title>
+  </programme>
+  <programme start="20260324105100 -0600" stop="20260324114100 -0600" channel="History">
+    <title lang="es">Triángulo de las Bermudas aguas malditas</title>
+  </programme>
+  <programme start="20260324114100 -0600" stop="20260324132000 -0600" channel="History">
+    <title lang="es">Miedo a la oscuridad</title>
+  </programme>
+  <programme start="20260324132000 -0600" stop="20260324141100 -0600" channel="History">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+  </programme>
+  <programme start="20260324141100 -0600" stop="20260324150400 -0600" channel="History">
+    <title lang="es">Inexplicable Latinoamérica</title>
+  </programme>
+  <programme start="20260324150400 -0600" stop="20260324155500 -0600" channel="History">
+    <title lang="es">Inexplicable Misterios del universo con William Shatner</title>
+  </programme>
+  <programme start="20260324155500 -0600" stop="20260324164600 -0600" channel="History">
+    <title lang="es">Búsqueda alienígena</title>
+  </programme>
+  <programme start="20260324164600 -0600" stop="20260324174100 -0600" channel="History">
+    <title lang="es">Archivos alienígenas reabiertos</title>
+  </programme>
+  <programme start="20260324174100 -0600" stop="20260324183200 -0600" channel="History">
+    <title lang="es">Inexplicable</title>
+  </programme>
+  <programme start="20260324183200 -0600" stop="20260324192300 -0600" channel="History">
+    <title lang="es">Inexplicable</title>
+  </programme>
+  <programme start="20260324192300 -0600" stop="20260324201300 -0600" channel="History">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20260324201300 -0600" stop="20260324210400 -0600" channel="History">
+    <title lang="es">Alienígenas ancestrales Latinoamérica</title>
+  </programme>
+  <programme start="20260324210400 -0600" stop="20260324215500 -0600" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20260324215500 -0600" stop="20260324224600 -0600" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20260324224600 -0600" stop="20260324233700 -0600" channel="History">
+    <title lang="es">Momias de Nazca</title>
+  </programme>
+  <programme start="20260324233700 -0600" stop="20260325002800 -0600" channel="History">
+    <title lang="es">Momias de Nazca</title>
+  </programme>
+  <programme start="20260325002800 -0600" stop="20260325011200 -0600" channel="History">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+  </programme>
+  <programme start="20260325011200 -0600" stop="20260325015500 -0600" channel="History">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20260325015500 -0600" stop="20260325023800 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+  </programme>
+  <programme start="20260325023800 -0600" stop="20260325032200 -0600" channel="History">
+    <title lang="es">Inexplicable</title>
+  </programme>
+  <programme start="20260325032200 -0600" stop="20260325040800 -0600" channel="History">
+    <title lang="es">Mysteryquest</title>
+  </programme>
+  <programme start="20260325040800 -0600" stop="20260325045600 -0600" channel="History">
+    <title lang="es">Contacto extraterrestre</title>
+  </programme>
+  <programme start="20260325045600 -0600" stop="20260325053900 -0600" channel="History">
+    <title lang="es">Búsqueda alienígena</title>
+  </programme>
+  <programme start="20260325053900 -0600" stop="20260325060000 -0600" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20260325060000 -0600" stop="20260325064800 -0600" channel="History">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20260325064800 -0600" stop="20260325073600 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260325073600 -0600" stop="20260325080000 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260325080000 -0600" stop="20260325090000 -0600" channel="History">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260325090000 -0600" stop="20260325100000 -0600" channel="History">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260325100000 -0600" stop="20260325104900 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia</title>
+  </programme>
+  <programme start="20260325104900 -0600" stop="20260325113900 -0600" channel="History">
+    <title lang="es">Triángulo de las Bermudas aguas malditas</title>
+  </programme>
+  <programme start="20260325113900 -0600" stop="20260325131900 -0600" channel="History">
+    <title lang="es">Superbombas</title>
+  </programme>
+  <programme start="20260325131900 -0600" stop="20260325141000 -0600" channel="History">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+  </programme>
+  <programme start="20260325141000 -0600" stop="20260325150000 -0600" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20260325150000 -0600" stop="20260325155600 -0600" channel="History">
+    <title lang="es">Cosas extrañas de la historia</title>
+  </programme>
+  <programme start="20260325155600 -0600" stop="20260325164600 -0600" channel="History">
+    <title lang="es">Misterios inexplorados con danny trejo</title>
+  </programme>
+  <programme start="20260325164600 -0600" stop="20260325174000 -0600" channel="History">
+    <title lang="es">Archivos alienígenas reabiertos</title>
+  </programme>
+  <programme start="20260325174000 -0600" stop="20260325183100 -0600" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20260325183100 -0600" stop="20260325192300 -0600" channel="History">
+    <title lang="es">Soldados Nisei de la 2da Guerra Mundial</title>
+  </programme>
+  <programme start="20260325192300 -0600" stop="20260325201400 -0600" channel="History">
+    <title lang="es">Visitantes del futuro</title>
+  </programme>
+  <programme start="20260325201400 -0600" stop="20260325210700 -0600" channel="History">
+    <title lang="es">Inexplicable</title>
+  </programme>
+  <programme start="20260325210700 -0600" stop="20260325215800 -0600" channel="History">
+    <title lang="es">Ciudades Ocultas</title>
+  </programme>
+  <programme start="20260325215800 -0600" stop="20260325224900 -0600" channel="History">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+  </programme>
+  <programme start="20260325224900 -0600" stop="20260325234000 -0600" channel="History">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+  </programme>
+  <programme start="20260325234000 -0600" stop="20260326003000 -0600" channel="History">
+    <title lang="es">Maravillas Siniestras</title>
+  </programme>
+  <programme start="20260326003000 -0600" stop="20260326011400 -0600" channel="History">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+  </programme>
+  <programme start="20260326011400 -0600" stop="20260326015700 -0600" channel="History">
+    <title lang="es">No Identificado</title>
+  </programme>
+  <programme start="20260326015700 -0600" stop="20260326024100 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+  </programme>
+  <programme start="20260326024100 -0600" stop="20260326032500 -0600" channel="History">
+    <title lang="es">Inexplicable</title>
+  </programme>
+  <programme start="20260326032500 -0600" stop="20260326041200 -0600" channel="History">
+    <title lang="es">Mysteryquest</title>
+  </programme>
+  <programme start="20260326041200 -0600" stop="20260326045500 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260326045500 -0600" stop="20260326053800 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260326053800 -0600" stop="20260326060000 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326064800 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260326064800 -0600" stop="20260326073600 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260326073600 -0600" stop="20260326080000 -0600" channel="History">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20260326080000 -0600" stop="20260326090000 -0600" channel="History">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260326090000 -0600" stop="20260326100000 -0600" channel="History">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260326100000 -0600" stop="20260326102400 -0600" channel="History">
+    <title lang="es">Derrochadores Ancestrales</title>
+  </programme>
+  <programme start="20260326102400 -0600" stop="20260326111400 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia</title>
+  </programme>
+  <programme start="20260326111400 -0600" stop="20260326120300 -0600" channel="History">
+    <title lang="es">Triángulo de las Bermudas aguas malditas</title>
+  </programme>
+  <programme start="20260326120300 -0600" stop="20260326133600 -0600" channel="History">
+    <title lang="es">Reyes Del Crimen</title>
+  </programme>
+  <programme start="20260326133600 -0600" stop="20260326142700 -0600" channel="History">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+  </programme>
+  <programme start="20260326142700 -0600" stop="20260326151700 -0600" channel="History">
+    <title lang="es">Triángulo de las Bermudas aguas malditas</title>
+  </programme>
+  <programme start="20260326151700 -0600" stop="20260326154100 -0600" channel="History">
+    <title lang="es">Testigo de la historia</title>
+  </programme>
+  <programme start="20260326154100 -0600" stop="20260326160500 -0600" channel="History">
+    <title lang="es">Testigo de la historia</title>
+  </programme>
+  <programme start="20260326160500 -0600" stop="20260326165600 -0600" channel="History">
+    <title lang="es">Restauraciones Secretas</title>
+  </programme>
+  <programme start="20260326165600 -0600" stop="20260326182000 -0600" channel="History">
+    <title lang="es">Tupamaros, la fuga de Punta Carretas</title>
+  </programme>
+  <programme start="20260326182000 -0600" stop="20260326191100 -0600" channel="History">
+    <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
+  </programme>
+  <programme start="20260324000200 -0600" stop="20260324004600 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260324004600 -0600" stop="20260324010800 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260324010800 -0600" stop="20260324013000 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260324013000 -0600" stop="20260324021400 -0600" channel="National Geographic">
+    <title lang="es">Sólo contra el mundo China</title>
+  </programme>
+  <programme start="20260324021400 -0600" stop="20260324025800 -0600" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto 3: Perú</title>
+  </programme>
+  <programme start="20260324025800 -0600" stop="20260324034200 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto Lima</title>
+  </programme>
+  <programme start="20260324034200 -0600" stop="20260324042600 -0600" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20260324042600 -0600" stop="20260324050000 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260324050000 -0600" stop="20260324060000 -0600" channel="National Geographic">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+  </programme>
+  <programme start="20260324060000 -0600" stop="20260324065900 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260324065900 -0600" stop="20260324072900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324072900 -0600" stop="20260324075900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324075900 -0600" stop="20260324082900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324082900 -0600" stop="20260324085900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324085900 -0600" stop="20260324092900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324092900 -0600" stop="20260324095900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324095900 -0600" stop="20260324102900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324102900 -0600" stop="20260324110400 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260324110400 -0600" stop="20260324120000 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260324120000 -0600" stop="20260324125500 -0600" channel="National Geographic">
+    <title lang="es">Solo contra el mundo: Río Mekong</title>
+  </programme>
+  <programme start="20260324125500 -0600" stop="20260324135600 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260324135600 -0600" stop="20260324145700 -0600" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20260324145700 -0600" stop="20260324155700 -0600" channel="National Geographic">
+    <title lang="es">Ciudades encontradas con Albert Lin</title>
+  </programme>
+  <programme start="20260324155700 -0600" stop="20260324165800 -0600" channel="National Geographic">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+  </programme>
+  <programme start="20260324165800 -0600" stop="20260324175900 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto Roma</title>
+  </programme>
+  <programme start="20260324175900 -0600" stop="20260324185900 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto: Madrid</title>
+  </programme>
+  <programme start="20260324185900 -0600" stop="20260324200100 -0600" channel="National Geographic">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+  </programme>
+  <programme start="20260324200100 -0600" stop="20260324210100 -0600" channel="National Geographic">
+    <title lang="es">Coliseo ascenso y caída</title>
+  </programme>
+  <programme start="20260324210100 -0600" stop="20260324215500 -0600" channel="National Geographic">
+    <title lang="es">Identidades desconocidas</title>
+  </programme>
+  <programme start="20260324215500 -0600" stop="20260324225700 -0600" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: Sabores extremos</title>
+  </programme>
+  <programme start="20260324225700 -0600" stop="20260324235700 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260324235700 -0600" stop="20260325004100 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260325004100 -0600" stop="20260325010200 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260325010200 -0600" stop="20260325012400 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260325012400 -0600" stop="20260325020800 -0600" channel="National Geographic">
+    <title lang="es">Sólo contra el mundo China</title>
+  </programme>
+  <programme start="20260325020800 -0600" stop="20260325025200 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto Lima</title>
+  </programme>
+  <programme start="20260325025200 -0600" stop="20260325033600 -0600" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto 3: Perú</title>
+  </programme>
+  <programme start="20260325033600 -0600" stop="20260325042300 -0600" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20260325042300 -0600" stop="20260325050000 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260325050000 -0600" stop="20260325055500 -0600" channel="National Geographic">
+    <title lang="es">Ciudades encontradas con Albert Lin</title>
+  </programme>
+  <programme start="20260325055500 -0600" stop="20260325065900 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260325065900 -0600" stop="20260325072900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325072900 -0600" stop="20260325075900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325075900 -0600" stop="20260325082900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325082900 -0600" stop="20260325085900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325085900 -0600" stop="20260325092900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325092900 -0600" stop="20260325095900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325095900 -0600" stop="20260325102900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325102900 -0600" stop="20260325110000 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260325110000 -0600" stop="20260325115500 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260325115500 -0600" stop="20260325125600 -0600" channel="National Geographic">
+    <title lang="es">Solo contra el mundo Amazonas</title>
+  </programme>
+  <programme start="20260325125600 -0600" stop="20260325135700 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260325135700 -0600" stop="20260325145800 -0600" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20260325145800 -0600" stop="20260325155800 -0600" channel="National Geographic">
+    <title lang="es">Ciudades encontradas con Albert Lin</title>
+  </programme>
+  <programme start="20260325155800 -0600" stop="20260325165800 -0600" channel="National Geographic">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+  </programme>
+  <programme start="20260325165800 -0600" stop="20260325175800 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20260325175800 -0600" stop="20260325185900 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto: Madrid</title>
+  </programme>
+  <programme start="20260325185900 -0600" stop="20260325200200 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto: Madrid</title>
+  </programme>
+  <programme start="20260325200200 -0600" stop="20260325210300 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260325210300 -0600" stop="20260325220400 -0600" channel="National Geographic">
+    <title lang="es">Traficantes</title>
+  </programme>
+  <programme start="20260325220400 -0600" stop="20260325230400 -0600" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: Sabores extremos</title>
+  </programme>
+  <programme start="20260325230400 -0600" stop="20260326000400 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260326000400 -0600" stop="20260326004800 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260326004800 -0600" stop="20260326011000 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260326011000 -0600" stop="20260326013100 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260326013100 -0600" stop="20260326021500 -0600" channel="National Geographic">
+    <title lang="es">Solo contra el mundo: Safari en África</title>
+  </programme>
+  <programme start="20260326021500 -0600" stop="20260326025900 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto Lima</title>
+  </programme>
+  <programme start="20260326025900 -0600" stop="20260326034300 -0600" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto 3: Perú</title>
+  </programme>
+  <programme start="20260326034300 -0600" stop="20260326043100 -0600" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20260326043100 -0600" stop="20260326050000 -0600" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+  <programme start="20260326050000 -0600" stop="20260326060000 -0600" channel="National Geographic">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326065900 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260326065900 -0600" stop="20260326072900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326072900 -0600" stop="20260326075900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326075900 -0600" stop="20260326082900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326082900 -0600" stop="20260326085900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326085900 -0600" stop="20260326092900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326092900 -0600" stop="20260326095900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326095900 -0600" stop="20260326102900 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326102900 -0600" stop="20260326110400 -0600" channel="National Geographic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20260326110400 -0600" stop="20260326115900 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260326115900 -0600" stop="20260326125500 -0600" channel="National Geographic">
+    <title lang="es">Solo contra el mundo Amazonas</title>
+  </programme>
+  <programme start="20260326125500 -0600" stop="20260326135400 -0600" channel="National Geographic">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20260326135400 -0600" stop="20260326145500 -0600" channel="National Geographic">
+    <title lang="es">Secreto en los Océanos</title>
+  </programme>
+  <programme start="20260326145500 -0600" stop="20260326155600 -0600" channel="National Geographic">
+    <title lang="es">Ciudades encontradas con Albert Lin</title>
+  </programme>
+  <programme start="20260326155600 -0600" stop="20260326165600 -0600" channel="National Geographic">
+    <title lang="es">Tesoros Perdidos de Egipto</title>
+  </programme>
+  <programme start="20260326165600 -0600" stop="20260326175700 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20260326175700 -0600" stop="20260326185900 -0600" channel="National Geographic">
+    <title lang="es">Alerta Aeropuerto: Madrid</title>
+  </programme>
+  <programme start="20260326185900 -0600" stop="20260326200100 -0600" channel="National Geographic">
+    <title lang="es">Tucci en Italia</title>
+  </programme>
+  <programme start="20260326200100 -0600" stop="20260326210100 -0600" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: Sabores extremos</title>
+  </programme>
+  <programme start="20260326210100 -0600" stop="20260326220200 -0600" channel="National Geographic">
+    <title lang="es">Los mejores trenes de la historia</title>
+  </programme>
+  <programme start="20260326220200 -0600" stop="20260326230300 -0600" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: Sabores extremos</title>
+  </programme>
+  <programme start="20260326230300 -0600" stop="20260327000300 -0600" channel="National Geographic">
+    <title lang="es">Salvajemente famosos el desafío</title>
+  </programme>
+  <programme start="20260324013900 -0600" stop="20260324024200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Kilos mortales Brasil</title>
+  </programme>
+  <programme start="20260324024200 -0600" stop="20260324033100 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20260324033100 -0600" stop="20260324041800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20260324041800 -0600" stop="20260324051300 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260324051300 -0600" stop="20260324060000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260324060000 -0600" stop="20260324073600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
+  </programme>
+  <programme start="20260324073600 -0600" stop="20260324084800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Cirugías al borde de la vida</title>
+  </programme>
+  <programme start="20260324084800 -0600" stop="20260324100000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Cirugías al borde de la vida</title>
+  </programme>
+  <programme start="20260324100000 -0600" stop="20260324104800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Limpiadores compulsivos</title>
+  </programme>
+  <programme start="20260324104800 -0600" stop="20260324113600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Limpiadores compulsivos</title>
+  </programme>
+  <programme start="20260324113600 -0600" stop="20260324122400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20260324122400 -0600" stop="20260324131200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Vestido de novia</title>
+  </programme>
+  <programme start="20260324131200 -0600" stop="20260324140000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260324140000 -0600" stop="20260324144800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260324144800 -0600" stop="20260324153600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260324153600 -0600" stop="20260324160000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Un gran día con J Balvin</title>
+  </programme>
+  <programme start="20260324160000 -0600" stop="20260324162400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Un gran día con J Balvin</title>
+  </programme>
+  <programme start="20260324162400 -0600" stop="20260324171200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">La familia Baldwin</title>
+  </programme>
+  <programme start="20260324171200 -0600" stop="20260324180000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">La familia Baldwin</title>
+  </programme>
+  <programme start="20260324180000 -0600" stop="20260324182400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20260324182400 -0600" stop="20260324184800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Cake Boss</title>
+  </programme>
+  <programme start="20260324184800 -0600" stop="20260324193600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Harry Potter magos pasteleros</title>
+  </programme>
+  <programme start="20260324193600 -0600" stop="20260324202400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Harry Potter magos pasteleros</title>
+  </programme>
+  <programme start="20260324202400 -0600" stop="20260324211200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">¡Sí, chef!</title>
+  </programme>
+  <programme start="20260324211200 -0600" stop="20260324220000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">¡Sí, chef!</title>
+  </programme>
+  <programme start="20260324220000 -0600" stop="20260324224800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Pesadilla en la cocina</title>
+  </programme>
+  <programme start="20260324224800 -0600" stop="20260324233600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Pesadilla en la cocina</title>
+  </programme>
+  <programme start="20260324233600 -0600" stop="20260325002400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">24 horas en el infierno, con Gordon Ramsay</title>
+  </programme>
+  <programme start="20260325002400 -0600" stop="20260325011200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Harry Potter magos pasteleros</title>
+  </programme>
+  <programme start="20260325011200 -0600" stop="20260325020000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Especialistas en tumores</title>
+  </programme>
+  <programme start="20260325020000 -0600" stop="20260325024800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20260325024800 -0600" stop="20260325033600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+  </programme>
+  <programme start="20260325033600 -0600" stop="20260325042400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260325042400 -0600" stop="20260325051200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260325051200 -0600" stop="20260325060000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260325060000 -0600" stop="20260325073600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
+  </programme>
+  <programme start="20260325073600 -0600" stop="20260325082400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Historias de peso clínica de obesidad</title>
+  </programme>
+  <programme start="20260325082400 -0600" stop="20260325091200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Historias de peso clínica de obesidad</title>
+  </programme>
+  <programme start="20260325091200 -0600" stop="20260325104800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20260325104800 -0600" stop="20260325122400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20260325122400 -0600" stop="20260325140000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20260325140000 -0600" stop="20260325144800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Corrige mi cirugía</title>
+  </programme>
+  <programme start="20260325144800 -0600" stop="20260325153600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Corrige mi cirugía</title>
+  </programme>
+  <programme start="20260325153600 -0600" stop="20260325171200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Historias de peso con el Dr. Now</title>
+  </programme>
+  <programme start="20260325171200 -0600" stop="20260325184800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Historias de peso con el Dr. Now</title>
+  </programme>
+  <programme start="20260325184800 -0600" stop="20260325193600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Baylen uma vida sem filtro</title>
+  </programme>
+  <programme start="20260325193600 -0600" stop="20260325202400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Baylen uma vida sem filtro</title>
+  </programme>
+  <programme start="20260325202400 -0600" stop="20260325211200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Historia Clinica</title>
+  </programme>
+  <programme start="20260325211200 -0600" stop="20260325220000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Historia Clinica</title>
+  </programme>
+  <programme start="20260325220000 -0600" stop="20260325222400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Un gran día con J Balvin</title>
+  </programme>
+  <programme start="20260325222400 -0600" stop="20260325224800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Un gran día con J Balvin</title>
+  </programme>
+  <programme start="20260325224800 -0600" stop="20260325233600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">La familia Baldwin</title>
+  </programme>
+  <programme start="20260325233600 -0600" stop="20260326013600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Vos podés</title>
+  </programme>
+  <programme start="20260326013600 -0600" stop="20260326022900 -0600" channel="Discovery Home Y Health">
+    <title lang="es">A la medida</title>
+  </programme>
+  <programme start="20260326022900 -0600" stop="20260326032100 -0600" channel="Discovery Home Y Health">
+    <title lang="es">A la medida</title>
+  </programme>
+  <programme start="20260326032100 -0600" stop="20260326041400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Mi vida con 300 kilos Italia</title>
+  </programme>
+  <programme start="20260326041400 -0600" stop="20260326050700 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Mi vida con 300 kilos Italia</title>
+  </programme>
+  <programme start="20260326050700 -0600" stop="20260326060000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Mi vida con 300 kilos Italia</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326073600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
+  </programme>
+  <programme start="20260326073600 -0600" stop="20260326082400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326082400 -0600" stop="20260326091200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326091200 -0600" stop="20260326100000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326100000 -0600" stop="20260326104800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326104800 -0600" stop="20260326113600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326113600 -0600" stop="20260326122400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326122400 -0600" stop="20260326131200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326131200 -0600" stop="20260326140000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos a la obra un hogar para siempre</title>
+  </programme>
+  <programme start="20260326140000 -0600" stop="20260326144800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos Scott al rescate</title>
+  </programme>
+  <programme start="20260326144800 -0600" stop="20260326153600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos Scott al rescate</title>
+  </programme>
+  <programme start="20260326153600 -0600" stop="20260326162400 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos Scott al rescate</title>
+  </programme>
+  <programme start="20260326162400 -0600" stop="20260326171200 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Remodelaciones con celebridades</title>
+  </programme>
+  <programme start="20260326171200 -0600" stop="20260326180000 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Remodelaciones con celebridades</title>
+  </programme>
+  <programme start="20260326180000 -0600" stop="20260326184800 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Remodelaciones con celebridades</title>
+  </programme>
+  <programme start="20260326184800 -0600" stop="20260326193600 -0600" channel="Discovery Home Y Health">
+    <title lang="es">Hermanos Scott al rescate</title>
+  </programme>
+  <programme start="20260324004400 -0600" stop="20260324013400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cintas del Crimen</title>
+  </programme>
+  <programme start="20260324013400 -0600" stop="20260324021800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">¿Quién es Luigi Mangione?</title>
+  </programme>
+  <programme start="20260324021800 -0600" stop="20260324030500 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Terror en casa</title>
+  </programme>
+  <programme start="20260324030500 -0600" stop="20260324040800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Terror en casa</title>
+  </programme>
+  <programme start="20260324040800 -0600" stop="20260324051000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Los 80 Década mortal</title>
+  </programme>
+  <programme start="20260324051000 -0600" stop="20260324060000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Los 80 Década mortal</title>
+  </programme>
+  <programme start="20260324060000 -0600" stop="20260324065000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">James Patterson Suspenso y muerte</title>
+  </programme>
+  <programme start="20260324065000 -0600" stop="20260324074000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">James Patterson Suspenso y muerte</title>
+  </programme>
+  <programme start="20260324074000 -0600" stop="20260324083000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">James Patterson Suspenso y muerte</title>
+  </programme>
+  <programme start="20260324083000 -0600" stop="20260324090000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260324090000 -0600" stop="20260324093000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260324093000 -0600" stop="20260324100000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260324100000 -0600" stop="20260324105400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20260324105400 -0600" stop="20260324114800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Los 80 Década mortal</title>
+  </programme>
+  <programme start="20260324114800 -0600" stop="20260324124000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Los 80 Década mortal</title>
+  </programme>
+  <programme start="20260324124000 -0600" stop="20260324133200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Los 80 Década mortal</title>
+  </programme>
+  <programme start="20260324133200 -0600" stop="20260324142400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">¿Quién es Luigi Mangione?</title>
+  </programme>
+  <programme start="20260324142400 -0600" stop="20260324151600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Terror en casa</title>
+  </programme>
+  <programme start="20260324151600 -0600" stop="20260324160800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Terror en casa</title>
+  </programme>
+  <programme start="20260324160800 -0600" stop="20260324170000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20260324170000 -0600" stop="20260324175200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20260324175200 -0600" stop="20260324184400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20260324184400 -0600" stop="20260324193600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el poder se disfraza</title>
+  </programme>
+  <programme start="20260324193600 -0600" stop="20260324202800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20260324202800 -0600" stop="20260324212000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">¿Quién pagó por matar?</title>
+  </programme>
+  <programme start="20260324212000 -0600" stop="20260324221200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en un viernes 13</title>
+  </programme>
+  <programme start="20260324221200 -0600" stop="20260324230400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en un viernes 13</title>
+  </programme>
+  <programme start="20260324230400 -0600" stop="20260324235600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Las investigadoras</title>
+  </programme>
+  <programme start="20260324235600 -0600" stop="20260325004800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Casados con el mal</title>
+  </programme>
+  <programme start="20260325004800 -0600" stop="20260325014000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Casados con el mal</title>
+  </programme>
+  <programme start="20260325014000 -0600" stop="20260325023200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260325023200 -0600" stop="20260325032400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260325032400 -0600" stop="20260325041600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260325041600 -0600" stop="20260325050800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Crímenes del pasado</title>
+  </programme>
+  <programme start="20260325050800 -0600" stop="20260325060000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">El lado oscuro de Playboy</title>
+  </programme>
+  <programme start="20260325060000 -0600" stop="20260325065000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">¿Quién es Luigi Mangione?</title>
+  </programme>
+  <programme start="20260325065000 -0600" stop="20260325074000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">El lado oscuro de Playboy</title>
+  </programme>
+  <programme start="20260325074000 -0600" stop="20260325083000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Casados con secretos</title>
+  </programme>
+  <programme start="20260325083000 -0600" stop="20260325090000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260325090000 -0600" stop="20260325093000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260325093000 -0600" stop="20260325100000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260325100000 -0600" stop="20260325105400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20260325105400 -0600" stop="20260325114800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Crímenes del pasado</title>
+  </programme>
+  <programme start="20260325114800 -0600" stop="20260325124000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">El lado oscuro de Playboy</title>
+  </programme>
+  <programme start="20260325124000 -0600" stop="20260325133200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en Silicon Valley</title>
+  </programme>
+  <programme start="20260325133200 -0600" stop="20260325142400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260325142400 -0600" stop="20260325151600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260325151600 -0600" stop="20260325160800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260325160800 -0600" stop="20260325170000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20260325170000 -0600" stop="20260325175200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20260325175200 -0600" stop="20260325184400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20260325184400 -0600" stop="20260325193600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20260325193600 -0600" stop="20260325202800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20260325202800 -0600" stop="20260325212000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20260325212000 -0600" stop="20260325221200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Crímenes de las chicas pesadas</title>
+  </programme>
+  <programme start="20260325221200 -0600" stop="20260325230400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">La casa del mal sombras de muerte</title>
+  </programme>
+  <programme start="20260325230400 -0600" stop="20260325235600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">La casa del mal sombras de muerte</title>
+  </programme>
+  <programme start="20260325235600 -0600" stop="20260326004800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Forbidden</title>
+  </programme>
+  <programme start="20260326004800 -0600" stop="20260326014000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Forbidden</title>
+  </programme>
+  <programme start="20260326014000 -0600" stop="20260326023200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en un viernes 13</title>
+  </programme>
+  <programme start="20260326023200 -0600" stop="20260326032400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Las investigadoras</title>
+  </programme>
+  <programme start="20260326032400 -0600" stop="20260326041600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en un viernes 13</title>
+  </programme>
+  <programme start="20260326041600 -0600" stop="20260326050800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el poder se disfraza</title>
+  </programme>
+  <programme start="20260326050800 -0600" stop="20260326060000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326065000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260326065000 -0600" stop="20260326074000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260326074000 -0600" stop="20260326083000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Seis hermanos esquizofrénicos</title>
+  </programme>
+  <programme start="20260326083000 -0600" stop="20260326090000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20260326090000 -0600" stop="20260326093000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260326093000 -0600" stop="20260326100000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20260326100000 -0600" stop="20260326105400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20260326105400 -0600" stop="20260326114800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el poder se disfraza</title>
+  </programme>
+  <programme start="20260326114800 -0600" stop="20260326124000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20260326124000 -0600" stop="20260326133200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">¿Quién pagó por matar?</title>
+  </programme>
+  <programme start="20260326133200 -0600" stop="20260326142400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en un viernes 13</title>
+  </programme>
+  <programme start="20260326142400 -0600" stop="20260326151600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Las investigadoras</title>
+  </programme>
+  <programme start="20260326151600 -0600" stop="20260326160800 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Asesinatos en un viernes 13</title>
+  </programme>
+  <programme start="20260326160800 -0600" stop="20260326170000 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20260326170000 -0600" stop="20260326175200 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20260326175200 -0600" stop="20260326184400 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20260326184400 -0600" stop="20260326193600 -0600" channel="ID Investigation Discovery">
+    <title lang="es">Un Asesino a Mi Lado</title>
+  </programme>
+  <programme start="20260324010000 -0600" stop="20260324014700 -0600" channel="HBO">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20260324014700 -0600" stop="20260324040700 -0600" channel="HBO">
+    <title lang="es">El escuadrón suicida</title>
+  </programme>
+  <programme start="20260324040700 -0600" stop="20260324070000 -0600" channel="HBO">
+    <title lang="es">El Patriota</title>
+  </programme>
+  <programme start="20260324070000 -0600" stop="20260324084100 -0600" channel="HBO">
+    <title lang="es">Héroe de Centro Comercial 2</title>
+  </programme>
+  <programme start="20260324084100 -0600" stop="20260324102600 -0600" channel="HBO">
+    <title lang="es">Los Perdedores</title>
+  </programme>
+  <programme start="20260324102600 -0600" stop="20260324111100 -0600" channel="HBO">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20260324111100 -0600" stop="20260324130500 -0600" channel="HBO">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20260324130500 -0600" stop="20260324151300 -0600" channel="HBO">
+    <title lang="es">M3GAN 2.0</title>
+  </programme>
+  <programme start="20260324151300 -0600" stop="20260324180400 -0600" channel="HBO">
+    <title lang="es">Duna: Parte Dos</title>
+  </programme>
+  <programme start="20260324180400 -0600" stop="20260324183800 -0600" channel="HBO">
+    <title lang="es">The Comeback</title>
+  </programme>
+  <programme start="20260324183800 -0600" stop="20260324210200 -0600" channel="HBO">
+    <title lang="es">PECADORES</title>
+  </programme>
+  <programme start="20260324210200 -0600" stop="20260324230000 -0600" channel="HBO">
+    <title lang="es">Mortal kombat</title>
+  </programme>
+  <programme start="20260324230000 -0600" stop="20260325010000 -0600" channel="HBO">
+    <title lang="es">Los tipos malos 2</title>
+  </programme>
+  <programme start="20260325010000 -0600" stop="20260325031400 -0600" channel="HBO">
+    <title lang="es">La Hora de la Desaparición</title>
+  </programme>
+  <programme start="20260325031400 -0600" stop="20260325045600 -0600" channel="HBO">
+    <title lang="es">El payaso del maizal</title>
+  </programme>
+  <programme start="20260325045600 -0600" stop="20260325070000 -0600" channel="HBO">
+    <title lang="es">Fragmentado</title>
+  </programme>
+  <programme start="20260325070000 -0600" stop="20260325085800 -0600" channel="HBO">
+    <title lang="es">La brújula dorada</title>
+  </programme>
+  <programme start="20260325085800 -0600" stop="20260325105100 -0600" channel="HBO">
+    <title lang="es">Rápido y furioso: Reto Tokio</title>
+  </programme>
+  <programme start="20260325105100 -0600" stop="20260325124400 -0600" channel="HBO">
+    <title lang="es">Un espía y medio</title>
+  </programme>
+  <programme start="20260325124400 -0600" stop="20260325143400 -0600" channel="HBO">
+    <title lang="es">Beetlejuice Beetlejuice</title>
+  </programme>
+  <programme start="20260325143400 -0600" stop="20260325150900 -0600" channel="HBO">
+    <title lang="es">Rooster</title>
+  </programme>
+  <programme start="20260325150900 -0600" stop="20260325154000 -0600" channel="HBO">
+    <title lang="es">The Comeback</title>
+  </programme>
+  <programme start="20260325154000 -0600" stop="20260325180100 -0600" channel="HBO">
+    <title lang="es">El conjuro 4: Los ultimos ritos</title>
+  </programme>
+  <programme start="20260325180100 -0600" stop="20260325205200 -0600" channel="HBO">
+    <title lang="es">Una batalla tras otra</title>
+  </programme>
+  <programme start="20260325205200 -0600" stop="20260325230100 -0600" channel="HBO">
+    <title lang="es">Tornados</title>
+  </programme>
+  <programme start="20260325230100 -0600" stop="20260326005700 -0600" channel="HBO">
+    <title lang="es">El plan del asesino</title>
+  </programme>
+  <programme start="20260326005700 -0600" stop="20260326015000 -0600" channel="HBO">
+    <title lang="es">DTF St. Louis</title>
+  </programme>
+  <programme start="20260326015000 -0600" stop="20260326034400 -0600" channel="HBO">
+    <title lang="es">Beetlejuice Beetlejuice</title>
+  </programme>
+  <programme start="20260326034400 -0600" stop="20260326053500 -0600" channel="HBO">
+    <title lang="es">Criatura voraz</title>
+  </programme>
+  <programme start="20260326053500 -0600" stop="20260326070000 -0600" channel="HBO">
+    <title lang="es">Juega o muere</title>
+  </programme>
+  <programme start="20260326070000 -0600" stop="20260326085800 -0600" channel="HBO">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20260326085800 -0600" stop="20260326104500 -0600" channel="HBO">
+    <title lang="es">Una Película de Minecraft</title>
+  </programme>
+  <programme start="20260326104500 -0600" stop="20260326131000 -0600" channel="HBO">
+    <title lang="es">Ángeles y demonios</title>
+  </programme>
+  <programme start="20260326131000 -0600" stop="20260326150200 -0600" channel="HBO">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+  </programme>
+  <programme start="20260326150200 -0600" stop="20260326170200 -0600" channel="HBO">
+    <title lang="es">El intermediario</title>
+  </programme>
+  <programme start="20260326170200 -0600" stop="20260326185000 -0600" channel="HBO">
+    <title lang="es">Una Película de Minecraft</title>
+  </programme>
+  <programme start="20260326185000 -0600" stop="20260326211000 -0600" channel="HBO">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+  </programme>
+  <programme start="20260326211000 -0600" stop="20260326221000 -0600" channel="HBO">
+    <title lang="es">DTF St. Louis</title>
+  </programme>
+  <programme start="20260326221000 -0600" stop="20260326230000 -0600" channel="HBO">
+    <title lang="es">Como agua para chocolate</title>
+  </programme>
+  <programme start="20260326230000 -0600" stop="20260327000000 -0600" channel="HBO">
+    <title lang="es">Los asesinos de Colosio</title>
+  </programme>
+  <programme start="20260324005000 -0600" stop="20260324014600 -0600" channel="HBO 2">
+    <title lang="es">Los asesinos de Colosio</title>
+  </programme>
+  <programme start="20260324014600 -0600" stop="20260324033100 -0600" channel="HBO 2">
+    <title lang="es">Dog Un viaje salvaje</title>
+  </programme>
+  <programme start="20260324033100 -0600" stop="20260324040700 -0600" channel="HBO 2">
+    <title lang="es">The Comeback</title>
+  </programme>
+  <programme start="20260324040700 -0600" stop="20260324060500 -0600" channel="HBO 2">
+    <title lang="es">El águila de la legión perdida</title>
+  </programme>
+  <programme start="20260324060500 -0600" stop="20260324070000 -0600" channel="HBO 2">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20260324070000 -0600" stop="20260324075400 -0600" channel="HBO 2">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20260324075400 -0600" stop="20260324100100 -0600" channel="HBO 2">
+    <title lang="es">En el corazón del mar</title>
+  </programme>
+  <programme start="20260324100100 -0600" stop="20260324115600 -0600" channel="HBO 2">
+    <title lang="es">Mortal kombat</title>
+  </programme>
+  <programme start="20260324115600 -0600" stop="20260324134200 -0600" channel="HBO 2">
+    <title lang="es">Una Película de Minecraft</title>
+  </programme>
+  <programme start="20260324134200 -0600" stop="20260324154500 -0600" channel="HBO 2">
+    <title lang="es">Inferno</title>
+  </programme>
+  <programme start="20260324154500 -0600" stop="20260324180500 -0600" channel="HBO 2">
+    <title lang="es">El Conjuro 4: Últimos Ritos</title>
+  </programme>
+  <programme start="20260324180500 -0600" stop="20260324190400 -0600" channel="HBO 2">
+    <title lang="es">Los asesinos de Colosio</title>
+  </programme>
+  <programme start="20260324190400 -0600" stop="20260324201800 -0600" channel="HBO 2">
+    <title lang="es">Los asesinos de Colosio</title>
+  </programme>
+  <programme start="20260324201800 -0600" stop="20260324215700 -0600" channel="HBO 2">
+    <title lang="es">El plan del asesino</title>
+  </programme>
+  <programme start="20260324215700 -0600" stop="20260324225800 -0600" channel="HBO 2">
+    <title lang="es">Como agua para chocolate</title>
+  </programme>
+  <programme start="20260324225800 -0600" stop="20260325004500 -0600" channel="HBO 2">
+    <title lang="es">Una Película de Minecraft</title>
+  </programme>
+  <programme start="20260325004500 -0600" stop="20260325023700 -0600" channel="HBO 2">
+    <title lang="es">Venom: El Último Baile</title>
+  </programme>
+  <programme start="20260325023700 -0600" stop="20260325031300 -0600" channel="HBO 2">
+    <title lang="es">Rooster</title>
+  </programme>
+  <programme start="20260325031300 -0600" stop="20260325045300 -0600" channel="HBO 2">
+    <title lang="es">La monja</title>
+  </programme>
+  <programme start="20260325045300 -0600" stop="20260325070000 -0600" channel="HBO 2">
+    <title lang="es">Pura suerte</title>
+  </programme>
+  <programme start="20260325070000 -0600" stop="20260325085800 -0600" channel="HBO 2">
+    <title lang="es">El dilema</title>
+  </programme>
+  <programme start="20260325085800 -0600" stop="20260325112900 -0600" channel="HBO 2">
+    <title lang="es">El Hombre de Acero</title>
+  </programme>
+  <programme start="20260325112900 -0600" stop="20260325121900 -0600" channel="HBO 2">
+    <title lang="es">Como agua para chocolate</title>
+  </programme>
+  <programme start="20260325121900 -0600" stop="20260325143900 -0600" channel="HBO 2">
+    <title lang="es">Jurassic World: Renace</title>
+  </programme>
+  <programme start="20260325143900 -0600" stop="20260325163900 -0600" channel="HBO 2">
+    <title lang="es">El intermediario</title>
+  </programme>
+  <programme start="20260325163900 -0600" stop="20260325184700 -0600" channel="HBO 2">
+    <title lang="es">M3GAN 2.0</title>
+  </programme>
+  <programme start="20260325184700 -0600" stop="20260325194700 -0600" channel="HBO 2">
+    <title lang="es">DTF St. Louis</title>
+  </programme>
+  <programme start="20260325194700 -0600" stop="20260325220000 -0600" channel="HBO 2">
+    <title lang="es">Cincuenta Sombras de Grey</title>
+  </programme>
+  <programme start="20260325220000 -0600" stop="20260325223000 -0600" channel="HBO 2">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20260325223000 -0600" stop="20260325230500 -0600" channel="HBO 2">
+    <title lang="es">Rooster</title>
+  </programme>
+  <programme start="20260325230500 -0600" stop="20260326005800 -0600" channel="HBO 2">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+  </programme>
+  <programme start="20260326005800 -0600" stop="20260326022300 -0600" channel="HBO 2">
+    <title lang="es">Juega o muere</title>
+  </programme>
+  <programme start="20260326022300 -0600" stop="20260326032300 -0600" channel="HBO 2">
+    <title lang="es">HBO Documentales</title>
+  </programme>
+  <programme start="20260326032300 -0600" stop="20260326050700 -0600" channel="HBO 2">
+    <title lang="es">El payaso del maizal</title>
+  </programme>
+  <programme start="20260326050700 -0600" stop="20260326070000 -0600" channel="HBO 2">
+    <title lang="es">Si fueras yo</title>
+  </programme>
+  <programme start="20260326070000 -0600" stop="20260326085000 -0600" channel="HBO 2">
+    <title lang="es">Los pitufos</title>
+  </programme>
+  <programme start="20260326085000 -0600" stop="20260326112400 -0600" channel="HBO 2">
+    <title lang="es">Bad boys 2</title>
+  </programme>
+  <programme start="20260326112400 -0600" stop="20260326133400 -0600" channel="HBO 2">
+    <title lang="es">Tornados</title>
+  </programme>
+  <programme start="20260326133400 -0600" stop="20260326155400 -0600" channel="HBO 2">
+    <title lang="es">El Vengador Del Futuro</title>
+  </programme>
+  <programme start="20260326155400 -0600" stop="20260326173100 -0600" channel="HBO 2">
+    <title lang="es">Sisu Camino a la venganza</title>
+  </programme>
+  <programme start="20260326173100 -0600" stop="20260326180600 -0600" channel="HBO 2">
+    <title lang="es">Rooster</title>
+  </programme>
+  <programme start="20260326180600 -0600" stop="20260326201000 -0600" channel="HBO 2">
+    <title lang="es">Amores Materialistas</title>
+  </programme>
+  <programme start="20260326201000 -0600" stop="20260326230000 -0600" channel="HBO 2">
+    <title lang="es">Una batalla tras otra</title>
+  </programme>
+  <programme start="20260326230000 -0600" stop="20260327010200 -0600" channel="HBO 2">
+    <title lang="es">El plan del asesino</title>
+  </programme>
+  <programme start="20260324012800 -0600" stop="20260324025800 -0600" channel="HBO Xtreme">
+    <title lang="es">La noche de la expiación</title>
+  </programme>
+  <programme start="20260324025800 -0600" stop="20260324040000 -0600" channel="HBO Xtreme">
+    <title lang="es">Celtics City</title>
+  </programme>
+  <programme start="20260324040000 -0600" stop="20260324055400 -0600" channel="HBO Xtreme">
+    <title lang="es">La ultima casa a la izquierda</title>
+  </programme>
+  <programme start="20260324055400 -0600" stop="20260324075300 -0600" channel="HBO Xtreme">
+    <title lang="es">La casa de cera</title>
+  </programme>
+  <programme start="20260324075300 -0600" stop="20260324093900 -0600" channel="HBO Xtreme">
+    <title lang="es">Terror en la Antártida</title>
+  </programme>
+  <programme start="20260324093900 -0600" stop="20260324110900 -0600" channel="HBO Xtreme">
+    <title lang="es">Los extraños</title>
+  </programme>
+  <programme start="20260324110900 -0600" stop="20260324124900 -0600" channel="HBO Xtreme">
+    <title lang="es">Drop: Amenaza Anónima</title>
+  </programme>
+  <programme start="20260324124900 -0600" stop="20260324142100 -0600" channel="HBO Xtreme">
+    <title lang="es">Matar o morir</title>
+  </programme>
+  <programme start="20260324142100 -0600" stop="20260324162100 -0600" channel="HBO Xtreme">
+    <title lang="es">Hit Man</title>
+  </programme>
+  <programme start="20260324162100 -0600" stop="20260324182200 -0600" channel="HBO Xtreme">
+    <title lang="es">El agente de C.I.P.O.L</title>
+  </programme>
+  <programme start="20260324182200 -0600" stop="20260324200200 -0600" channel="HBO Xtreme">
+    <title lang="es">Drop: Amenaza Anónima</title>
+  </programme>
+  <programme start="20260324200200 -0600" stop="20260324220200 -0600" channel="HBO Xtreme">
+    <title lang="es">Hit Man</title>
+  </programme>
+  <programme start="20260324220200 -0600" stop="20260324233100 -0600" channel="HBO Xtreme">
+    <title lang="es">Amor Explosivo</title>
+  </programme>
+  <programme start="20260324233100 -0600" stop="20260325012300 -0600" channel="HBO Xtreme">
+    <title lang="es">Focus maestros de la estafa</title>
+  </programme>
+  <programme start="20260325012300 -0600" stop="20260325040000 -0600" channel="HBO Xtreme">
+    <title lang="es">El Código Da Vinci</title>
+  </programme>
+  <programme start="20260325040000 -0600" stop="20260325050400 -0600" channel="HBO Xtreme">
+    <title lang="es">Celtics City</title>
+  </programme>
+  <programme start="20260325050400 -0600" stop="20260325064300 -0600" channel="HBO Xtreme">
+    <title lang="es">Hipnosis Arma Invisible</title>
+  </programme>
+  <programme start="20260325064300 -0600" stop="20260325081000 -0600" channel="HBO Xtreme">
+    <title lang="es">Lucy</title>
+  </programme>
+  <programme start="20260325081000 -0600" stop="20260325102000 -0600" channel="HBO Xtreme">
+    <title lang="es">Battleship Batalla Naval</title>
+  </programme>
+  <programme start="20260325102000 -0600" stop="20260325123300 -0600" channel="HBO Xtreme">
+    <title lang="es">Jurassic World Reino Caído</title>
+  </programme>
+  <programme start="20260325123300 -0600" stop="20260325140000 -0600" channel="HBO Xtreme">
+    <title lang="es">Lucy</title>
+  </programme>
+  <programme start="20260325140000 -0600" stop="20260325161500 -0600" channel="HBO Xtreme">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+  </programme>
+  <programme start="20260325161500 -0600" stop="20260325182700 -0600" channel="HBO Xtreme">
+    <title lang="es">Jurassic World Reino Caído</title>
+  </programme>
+  <programme start="20260325182700 -0600" stop="20260325202700 -0600" channel="HBO Xtreme">
+    <title lang="es">Triple 9</title>
+  </programme>
+  <programme start="20260325202700 -0600" stop="20260325220000 -0600" channel="HBO Xtreme">
+    <title lang="es">A line of fire</title>
+  </programme>
+  <programme start="20260325220000 -0600" stop="20260326001500 -0600" channel="HBO Xtreme">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+  </programme>
+  <programme start="20260326001500 -0600" stop="20260326015500 -0600" channel="HBO Xtreme">
+    <title lang="es">Noche de venganza</title>
+  </programme>
+  <programme start="20260326015500 -0600" stop="20260326040000 -0600" channel="HBO Xtreme">
+    <title lang="es">El castigador</title>
+  </programme>
+  <programme start="20260326040000 -0600" stop="20260326060000 -0600" channel="HBO Xtreme">
+    <title lang="es">300</title>
+  </programme>
+  <programme start="20260326060000 -0600" stop="20260326075000 -0600" channel="HBO Xtreme">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+  </programme>
+  <programme start="20260326075000 -0600" stop="20260326101800 -0600" channel="HBO Xtreme">
+    <title lang="es">La caída del halcón negro</title>
+  </programme>
+  <programme start="20260326101800 -0600" stop="20260326122000 -0600" channel="HBO Xtreme">
+    <title lang="es">Triple 9</title>
+  </programme>
+  <programme start="20260326122000 -0600" stop="20260326142200 -0600" channel="HBO Xtreme">
+    <title lang="es">El Club de los Vándalos</title>
+  </programme>
+  <programme start="20260326142200 -0600" stop="20260326161300 -0600" channel="HBO Xtreme">
+    <title lang="es">Atrapado robando</title>
+  </programme>
+  <programme start="20260326161300 -0600" stop="20260326181200 -0600" channel="HBO Xtreme">
+    <title lang="es">Agente Fortune: El Gran Engaño</title>
+  </programme>
+  <programme start="20260326181200 -0600" stop="20260326201000 -0600" channel="HBO Xtreme">
+    <title lang="es">Amigos de armas</title>
+  </programme>
+  <programme start="20260326201000 -0600" stop="20260326220000 -0600" channel="HBO Xtreme">
+    <title lang="es">Atrapado robando</title>
+  </programme>
+  <programme start="20260326220000 -0600" stop="20260326234000 -0600" channel="HBO Xtreme">
+    <title lang="es">Chips patrulla motorizada</title>
+  </programme>
+  <programme start="20260326234000 -0600" stop="20260327013900 -0600" channel="HBO Xtreme">
+    <title lang="es">Barry Seal: Solo en América</title>
+  </programme>
+</tv>
