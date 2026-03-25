@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0 type="stream" tvg-id="AYE" tvg-logo="https://eguquin66.github.io/tv/Logos/A%26E.png" audio-track="es", A&E
+http://45.177.21.6:9000/play/a013
+#EXTINF:0 type="stream" tvg-id="Adult Swim" tvg-logo="https://eguquin66.github.io/tv/Logos/Adult%20Swim.png" audio-track="es", Adult Swim
+http://45.177.21.6:9000/play/a028
+#EXTINF:0 type="stream" tvg-id="AXN" tvg-logo="https://eguquin66.github.io/tv/Logos/AXN.png" audio-track="es", AXN
+http://45.177.21.6:9000/play/a014
+#EXTINF:0 type="stream" tvg-id="Cinecanal" tvg-logo="https://eguquin66.github.io/tv/Logos/Cinecanal.png" audio-track="es", Cinecanal
+http://45.177.21.6:9000/play/a00t
+#EXTINF:0 type="stream" tvg-id="Cinemax" tvg-logo="https://eguquin66.github.io/tv/Logos/Cinemax.png" audio-track="es", Cinemax
+http://186.148.196.67:8900/play/a09r
+#EXTINF:0 type="stream" tvg-id="Comedy Central" tvg-logo="https://eguquin66.github.io/tv/Logos/Comedy%20Central.png" audio-track="es", Comedy Central
+http://181.174.228.40:8000/play/a0bo
+#EXTINF:0 type="stream" tvg-id="DePelicula" tvg-logo="https://eguquin66.github.io/tv/Logos/DePelicula.png" audio-track="es", DePelicula
+http://181.225.190.242:8000/play/a015
+#EXTINF:0 type="stream" tvg-id="Golden" tvg-logo="https://eguquin66.github.io/tv/Logos/Golden.png" audio-track="es", Golden
+http://201.234.186.225:18000/play/a03h
+#EXTINF:0 type="stream" tvg-id="Golden Edge" tvg-logo="https://eguquin66.github.io/tv/Logos/Golden%20Edge.png" audio-track="es", Golden Edge
+http://45.177.21.6:9000/play/a01j
+#EXTINF:0 type="stream" tvg-id="Sony Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Sony%20Channel.png" audio-track="es", Sony Channel
+http://181.225.190.242:8000/play/a02u
+#EXTINF:0 type="stream" tvg-id="Sony Movies" tvg-logo="https://eguquin66.github.io/tv/Logos/Sony%20Movies.png" audio-track="es", Sony Movies
+http://181.225.190.242:8000/play/a02v
+#EXTINF:0 type="stream" tvg-id="Space" tvg-logo="https://eguquin66.github.io/tv/Logos/Space.png" audio-track="es", Space
+http://45.177.21.6:9000/play/a00m
+#EXTINF:0 type="stream" tvg-id="Star Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Star%20Channel.png" audio-track="es", Star Channel
+http://45.177.21.6:9000/play/a00j
+#EXTINF:0 type="stream" tvg-id="Studio Universal" tvg-logo="https://eguquin66.github.io/tv/Logos/Studio%20Universal.png" audio-track="es", Studio Universal
+http://45.177.21.6:9000/play/a00v
+#EXTINF:0 type="stream" tvg-id="TCM" tvg-logo="https://eguquin66.github.io/tv/Logos/TCM.png" audio-track="es", TCM
+http://45.177.21.6:9000/play/a01r
+#EXTINF:0 type="stream" tvg-id="TNT" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT.png" audio-track="es", TNT
+http://45.177.21.6:9000/play/a01f
+#EXTINF:0 type="stream" tvg-id="TNT Series" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT%20Series.png" audio-track="es", TNT Series
+http://45.177.21.6:9000/play/a00i
+#EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20Channel.png" audio-track="es", Universal Channel
+http://190.0.247.38:8000/play/a016
+#EXTINF:0 type="stream" tvg-id="Warner Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Warner%20Channel.png" audio-track="es", Warner Channel
+http://190.109.29.163:9000/play/a005/index.m3u8
+#EXTINF:0 type="stream" tvg-id="West" tvg-logo="https://eguquin66.github.io/tv/Logos/West.png" audio-track="es", West
+http://45.177.21.6:9000/play/a01p
+#EXTINF:0 type="stream" tvg-id="Animal Planet" tvg-logo="https://eguquin66.github.io/tv/Logos/Animal%20Planet.png" audio-track="es", Animal Planet
+http://45.177.21.6:9000/play/a010
+#EXTINF:0 type="stream" tvg-id="Discovery Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Discovery%20Channel.png" audio-track="es", Discovery Channel
+http://45.190.187.183:8080/play/a186
+#EXTINF:0 type="stream" tvg-id="H2" tvg-logo="https://eguquin66.github.io/tv/Logos/H2.png" audio-track="es", H2
+http://181.225.190.242:8000/play/a023
+#EXTINF:0 type="stream" tvg-id="History" tvg-logo="https://eguquin66.github.io/tv/Logos/History.png" audio-track="es", History
+http://181.225.190.242:8000/play/a022
+#EXTINF:0 type="stream" tvg-id="National Geographic" tvg-logo="https://eguquin66.github.io/tv/Logos/National%20Geographic.png" audio-track="es", National Geographic
+http://45.177.21.6:9000/play/a00u
+#EXTINF:0 type="stream" tvg-id="Discovery Home Y Health" tvg-logo="https://eguquin66.github.io/tv/Logos/Discovery%20Home%20%26%20Health.png" audio-track="es", Discovery Home & Health
+http://45.177.21.6:9000/play/a019
+#EXTINF:0 type="stream" tvg-id="ID Investigation Discovery" tvg-logo="https://eguquin66.github.io/tv/Logos/ID%20Investigation%20Discovery.png" audio-track="es", ID Investigation Discovery
+http://45.177.21.6:9000/play/a00z
+#EXTINF:0 type="stream" tvg-id="L1 MAX" tvg-logo="https://eguquin66.github.io/tv/Logos/L1%20MAX.png" audio-track="es", L1 MAX
+http://45.177.21.6:9000/play/a00h
+#EXTINF:0 type="stream" tvg-id="L1" tvg-logo="https://eguquin66.github.io/tv/Logos/L1.png" audio-track="es", L1
+http://45.177.21.6:9000/play/a00g
+#EXTINF:0 type="stream" tvg-id="HBO" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO.png" audio-track="es", HBO
+http://181.174.228.40:8000/play/a0c0
+#EXTINF:0 type="stream" tvg-id="HBO Xtreme" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO%20Xtreme.png" audio-track="es", HBO Xtreme
+http://181.174.228.40:8000/play/a0fn
