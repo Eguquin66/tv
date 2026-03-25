@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" tvg-id="AYE" tvg-logo="https://eguquin66.github.io/tv/Logos/A%26E.png" audio-track="es", A&E
 http://45.177.21.6:9000/play/a013
 #EXTINF:0 type="stream" tvg-id="Adult Swim" tvg-logo="https://eguquin66.github.io/tv/Logos/Adult%20Swim.png" audio-track="es", Adult Swim
-http://45.177.21.6:9000/play/a028
+http://177.53.153.207:8000/play/a011/index.m3u8
 #EXTINF:0 type="stream" tvg-id="AXN" tvg-logo="https://eguquin66.github.io/tv/Logos/AXN.png" audio-track="es", AXN
 http://45.177.21.6:9000/play/a014
 #EXTINF:0 type="stream" tvg-id="Cinecanal" tvg-logo="https://eguquin66.github.io/tv/Logos/Cinecanal.png" audio-track="es", Cinecanal
