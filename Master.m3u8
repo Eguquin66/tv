@@ -54,7 +54,7 @@ http://45.177.21.6:9000/play/a019
 #EXTINF:0 type="stream" tvg-id="ID Investigation Discovery" tvg-logo="https://eguquin66.github.io/tv/Logos/ID%20Investigation%20Discovery.png" audio-track="es", ID Investigation Discovery
 http://45.177.21.6:9000/play/a00z
 #EXTINF:0 type="stream" tvg-id="L1 MAX" tvg-logo="https://eguquin66.github.io/tv/Logos/L1%20MAX.png" audio-track="es", L1 MAX
-http://45.177.21.6:9000/play/a00h
+http://138.204.12.14:40000/play/a0qr/index.m3u8
 #EXTINF:0 type="stream" tvg-id="L1" tvg-logo="https://eguquin66.github.io/tv/Logos/L1.png" audio-track="es", L1
 http://45.177.21.6:9000/play/a00g
 #EXTINF:0 type="stream" tvg-id="HBO" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO.png" audio-track="es", HBO
