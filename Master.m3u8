@@ -30,13 +30,13 @@ http://45.177.21.6:9000/play/a00v
 #EXTINF:0 type="stream" tvg-id="TCM" tvg-logo="https://eguquin66.github.io/tv/Logos/TCM.png" audio-track="es", TCM
 http://45.177.21.6:9000/play/a01r
 #EXTINF:0 type="stream" tvg-id="TNT" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT.png" audio-track="es", TNT
-http://181.174.228.40:8000/play/a05c
+http://138.117.86.160:18000/play/a0a5
 #EXTINF:0 type="stream" tvg-id="TNT Series" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT%20Series.png" audio-track="es", TNT Series
 http://45.177.21.6:9000/play/a00i
 #EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20Channel.png" audio-track="es", Universal Channel
 http://190.0.247.38:8000/play/a016
 #EXTINF:0 type="stream" tvg-id="Warner Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Warner%20Channel.png" audio-track="es", Warner Channel
-http://45.190.187.183:8080/play/a1am
+http://138.204.12.14:40000/play/a0o6/index.m3u8
 #EXTINF:0 type="stream" tvg-id="West" tvg-logo="https://eguquin66.github.io/tv/Logos/West.png" audio-track="es", West
 http://45.177.21.6:9000/play/a01p
 #EXTINF:0 type="stream" tvg-id="Animal Planet" tvg-logo="https://eguquin66.github.io/tv/Logos/Animal%20Planet.png" audio-track="es", Animal Planet
