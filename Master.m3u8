@@ -36,7 +36,7 @@ http://45.177.21.6:9000/play/a00i
 #EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20Channel.png" audio-track="es", Universal Channel
 http://190.0.247.38:8000/play/a016
 #EXTINF:0 type="stream" tvg-id="Warner Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Warner%20Channel.png" audio-track="es", Warner Channel
-http://190.109.29.163:9000/play/a005/index.m3u8
+http://45.190.187.183:8080/play/a1am
 #EXTINF:0 type="stream" tvg-id="West" tvg-logo="https://eguquin66.github.io/tv/Logos/West.png" audio-track="es", West
 http://45.177.21.6:9000/play/a01p
 #EXTINF:0 type="stream" tvg-id="Animal Planet" tvg-logo="https://eguquin66.github.io/tv/Logos/Animal%20Planet.png" audio-track="es", Animal Planet
