@@ -30,7 +30,7 @@ http://45.177.21.6:9000/play/a00v
 #EXTINF:0 type="stream" tvg-id="TCM" tvg-logo="https://eguquin66.github.io/tv/Logos/TCM.png" audio-track="es", TCM
 http://45.177.21.6:9000/play/a01r
 #EXTINF:0 type="stream" tvg-id="TNT" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT.png" audio-track="es", TNT
-http://45.177.21.6:9000/play/a01f
+http://181.174.228.40:8000/play/a05c
 #EXTINF:0 type="stream" tvg-id="TNT Series" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT%20Series.png" audio-track="es", TNT Series
 http://45.177.21.6:9000/play/a00i
 #EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20Channel.png" audio-track="es", Universal Channel
