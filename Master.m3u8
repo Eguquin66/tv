@@ -56,7 +56,7 @@ http://45.177.21.6:9000/play/a00z
 #EXTINF:0 type="stream" tvg-id="L1 MAX" tvg-logo="https://eguquin66.github.io/tv/Logos/L1%20MAX.png" audio-track="es", L1 MAX
 http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:0 type="stream" tvg-id="L1" tvg-logo="https://eguquin66.github.io/tv/Logos/L1.png" audio-track="es", L1
-http://45.177.21.6:9000/play/a00g
+http://38.250.175.18:2220/play/a001/index.m3u8
 #EXTINF:0 type="stream" tvg-id="HBO" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO.png" audio-track="es", HBO
 http://181.174.228.40:8000/play/a0c0
 #EXTINF:0 type="stream" tvg-id="HBO Xtreme" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO%20Xtreme.png" audio-track="es", HBO Xtreme
