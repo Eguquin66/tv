@@ -33,7 +33,7 @@ http://181.225.190.242:8000/play/a02z
 http://191.97.59.33:8000/play/a08j/index.m3u8
 #EXTINF:0 type="stream" tvg-id="TNT Series" tvg-logo="https://eguquin66.github.io/tv/Logos/TNT%20Series.png" audio-track="es", TNT Series
 http://167.250.223.26:9998/play/a0rs/index.m3u8
-#EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20Channel.png" audio-track="es", Universal Channel
+#EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20Channel.png" audio-track="es", Universal TV
 http://181.176.155.7:8090/play/a1co/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Warner Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Warner%20Channel.png" audio-track="es", Warner Channel
 http://138.204.12.14:40000/play/a0o6/index.m3u8
