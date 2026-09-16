@@ -60,4 +60,4 @@ http://45.190.187.183:8080/play/a1dc
 #EXTINF:0 type="stream" tvg-id="HBO 2" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO%202.png" audio-track="es", HBO 2
 http://45.190.187.183:8080/play/a1d4
 #EXTINF:0 type="stream" tvg-id="HBO Xtreme" tvg-logo="https://eguquin66.github.io/tv/Logos/HBO%20Xtreme.png" audio-track="es", HBO Xtreme
-http://45.190.187.183:8080/play/a1d5
+http://191.97.15.251:8000/play/a02u/index.m3u8
