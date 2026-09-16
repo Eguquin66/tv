@@ -57,7 +57,7 @@ http://191.97.59.33:8000/play/a07j/index.m3u8
 http://45.177.21.6:9000/play/a019
 #EXTINF:0 type="stream" tvg-id="ID Investigation Discovery" tvg-logo="https://eguquin66.github.io/tv/Logos/ID%20Investigation%20Discovery.png" audio-track="es", ID Investigation Discovery
 http://191.97.61.32:8000/play/a062/index.m3u8
-#EXTINF:0 type="stream" tvg-id="DSPORTS" tvg-logo="https://eguquin66.github.io/tv/Logos/DSPORTS.png" audio-track="es", DSPORTS
+#EXTINF:0 type="stream" tvg-id="DSports" tvg-logo="https://eguquin66.github.io/tv/Logos/DSports.png" audio-track="es", DSports
 http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:0 type="stream" tvg-id="ESPN" tvg-logo="https://eguquin66.github.io/tv/Logos/ESPN.png" audio-track="es", ESPN
 http://191.97.61.32:8000/play/a0c0/index.m3u8
