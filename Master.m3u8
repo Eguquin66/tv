@@ -54,7 +54,7 @@ http://191.97.61.32:8000/play/a05s/index.m3u8
 #EXTINF:0 type="stream" tvg-id="National Geographic" tvg-logo="https://eguquin66.github.io/tv/Logos/National%20Geographic.png" audio-track="es", National Geographic
 http://191.97.59.33:8000/play/a07j/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Discovery Home Y Health" tvg-logo="https://eguquin66.github.io/tv/Logos/Discovery%20Home%20%26%20Health.png" audio-track="es", Discovery Home & Health
-http://45.177.21.6:9000/play/a019
+http://190.14.248.42:8000/play/a01b/index.m3u8
 #EXTINF:0 type="stream" tvg-id="ID Investigation Discovery" tvg-logo="https://eguquin66.github.io/tv/Logos/ID%20Investigation%20Discovery.png" audio-track="es", ID Investigation Discovery
 http://191.97.61.32:8000/play/a062/index.m3u8
 #EXTINF:0 type="stream" tvg-id="DSports" tvg-logo="https://eguquin66.github.io/tv/Logos/DSports.png" audio-track="es", DSports
