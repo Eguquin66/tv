@@ -44,7 +44,7 @@ http://190.14.248.42:8000/play/a035/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Universal Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Universal%20TV.png" audio-track="es", Universal TV
 http://191.97.55.72:8000/play/a028/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Warner Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Warner%20Channel.png" audio-track="es", Warner Channel
-http://191.97.59.33:8000/play/a0aq/index.m3u8
+http://191.97.61.32:8000/play/a060/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Animal Planet" tvg-logo="https://eguquin66.github.io/tv/Logos/Animal%20Planet.png" audio-track="es", Animal Planet
 http://45.177.21.6:9000/play/a010
 #EXTINF:0 type="stream" tvg-id="Discovery Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Discovery%20Channel.png" audio-track="es", Discovery Channel
