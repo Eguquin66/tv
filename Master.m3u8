@@ -24,7 +24,7 @@ http://181.225.190.242:8000/play/a01w
 #EXTINF:0 type="stream" tvg-id="FX" tvg-logo="https://eguquin66.github.io/tv/Logos/FX.png" audio-track="es", FX
 http://191.97.61.32:8000/play/a07f/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Sony Channel" tvg-logo="https://eguquin66.github.io/tv/Logos/Sony%20Channel.png" audio-track="es", Sony Channel
-http://191.97.61.32:8000/play/a05z/index.m3u8
+http://190.14.231.165:8000/play/a05t/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Sony Movies" tvg-logo="https://eguquin66.github.io/tv/Logos/Sony%20Movies.png" audio-track="es", Sony Movies
 http://190.14.248.42:8000/play/a002/index.m3u8
 #EXTINF:0 type="stream" tvg-id="Space" tvg-logo="https://eguquin66.github.io/tv/Logos/Space.png" audio-track="es", Space
